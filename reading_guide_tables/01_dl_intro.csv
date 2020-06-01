@@ -1,0 +1,18 @@
+Author,Note,Title,Type,Source/DOI
+3blue1brown,"Animated intro to neural networks, gradient descent and back propagation",Neural networks,video,https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+Appenzeller 2017,Thoughts on DL for science and engineering,The AI revolution in science,article,https://www.sciencemag.org/news/2017/07/ai-revolution-science
+Yang 2019,Thoughts on DL for science and engineering,Deep Learning in Science,medium,https://towardsdatascience.com/deep-learning-in-science-fd614bb3f3ce
+Hoeser 2020,Section 2; Brief introduction to the basic concepts of deep learning and CNNs,Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part I: Evolution and Recent Trends ,paper,10.3390/rs12101667
+Schmidhuber 2015,Thorough review about deep learning,Deep Learning in Neural Networks: An Overview,paper,10.1016/j.neunet.2014.09.003
+Le Cun 2015,Review about deep learning with a focus on CNNs,Deep learning,paper,10.1038/nature14539
+Google ML Course,Gradient descent,Reducing Loss: Gradient Descent,course material,https://developers.google.com/machine-learning/crash-course/reducing-loss/gradient-descent
+Rumelhart 1986,back propagation + gradient descent,Learning representations by back-propagating errors,paper,10.1038/323533a0
+Le Cun 1998,back propagation + gradient descent,Gradient-based learning applied to document recognition,paper,10.1109/5.726791
+Google ML Course,Stochastic gradient descent,Reducing Loss: Stochastic Gradient Descent,course material,https://developers.google.com/machine-learning/crash-course/reducing-loss/stochastic-gradient-descent
+Cho 2014,Stochastic gradient descent,Foundations and Advances in Deep Learning,dissertation,https://aaltodoc.aalto.fi/handle/123456789/12729
+Ruder 2016,Gradient descent algorithms,An overview of gradient descent optimization algorithms,medium,https://ruder.io/optimizing-gradient-descent/
+Sharam 2017,Explanation of commonly used activation functions,Understanding Activation Functions in Neural Networks,medium,https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0
+ML Glossary,Cheat sheet for activation functions,Activation Functions,documentation,https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html
+Nair 2010,ReLU activation function,Rectified linear units improve restricted boltzmann machines,paper,10.5555/3104322.3104425
+Glorot 2010,The impact of activation function in NN,Understanding the difficulty of training deep feedforward neural networks,paper,http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf
+Glorot 2011,ReLU activation function,Deep Sparse Rectifier Neural Networks,paper,http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf
