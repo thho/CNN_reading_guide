@@ -1,0 +1,11 @@
+Author,Note,Title,Type,Source/DOI
+Hoeser 2020,Section 3.1.3 An overview of the ResNet family,Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part I: Evolution and Recent Trends ,paper,10.3390/rs12101667
+He 2016,ResNet,Deep Residual Learning for Image Recognition,paper,10.1109/CVPR.2016.90
+Dive into DL,ResNet Explanations,Residual Networks (ResNet),course,https://d2l.ai/chapter_convolutional-modern/resnet.html
+Sahoo 2018,ResNet Explanations,Residual blocks — Building blocks of ResNet,medium,https://towardsdatascience.com/residual-blocks-building-blocks-of-resnet-fd90ca15d6ec
+Zhang 2018,"ShuffleNet, grouped convolutions in preparation for ResNeXt ",ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices,paper,10.1109/CVPR.2018.00716
+Xie 2017,ResNeXt,Aggregated Residual Transformations for Deep Neural Networks,paper,10.1109/CVPR.2017.634
+Huang 2017,DenseNet,Densely Connected Convolutional Networks,paper,10.1109/CVPR.2017.243
+Chollet 2017,Xception,Xception: Deep Learning with Depthwise Separable Convolutions,paper,10.1109/CVPR.2017.195
+Szegedy 2017,Inception-ResNet-V2," Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning",paper,https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14806/14311
+Xu 2017,Inception – ResNet summary,An Intuitive Guide to Deep Network Architectures,medium,https://towardsdatascience.com/an-intuitive-guide-to-deep-network-architectures-65fdc477db41

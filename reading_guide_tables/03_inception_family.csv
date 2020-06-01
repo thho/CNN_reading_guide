@@ -1,0 +1,8 @@
+Author,Note,Title,Type,Source/DOI
+Hoeser 2020,Section 3.1.2 An overview of the Inception family,Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part I: Evolution and Recent Trends ,paper,10.3390/rs12101667
+Raj 2018,Summary of the different Inception versions,A Simple Guide to the Versions of the Inception Network,medium,https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202
+Szegedy 2015,Inception V1,Going deeper with convolutions.,paper,10.1109/CVPR.2015.7298594
+Ioffe 2015,Batch Normalization,Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift,paper,https://arxiv.org/abs/1502.03167
+Bjorck 2018,Batch Normalization,Understanding Batch Normalization,paper,https://arxiv.org/pdf/1806.02375.pdf
+Brownlee 2019,Examples for BN,A Gentle Introduction to Batch Normalization for Deep Neural Networks,blog,https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/
+Szegedy 2016,Inception V3,Rethinking the Inception Architecture for Computer Vision,paper, 10.1109/CVPR.2016.308

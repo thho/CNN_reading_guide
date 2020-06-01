@@ -1,0 +1,18 @@
+Author,Note,Title,Type,Source/DOI
+Hoeser 2020,Section 3.1.4 An overview of the efficient designs,Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part I: Evolution and Recent Trends ,paper,10.3390/rs12101667
+Hu 2018,SeNet,Squeeze-and-Excitation Networks,paper,https://arxiv.org/abs/1709.01507
+Zoph 2016,NAS,Neural Architecture Search with Reinforcement Learning,paper,https://arxiv.org/abs/1611.01578
+Rahman 2020,NAS explanation,Neural Architecture Search (NAS)- The Future of Deep Learning ,blog,https://theaiacademy.blogspot.com/2020/05/neural-architecture-search-nas-future.html
+Sable 2020,Overview on NAS,Neural Architecture Search Part 1: An Overview,blog,https://blog.paperspace.com/overview-of-neural-architecture-search/
+Zoph 2018,NASNet,Learning Transferable Architectures for Scalable Image Recognition,paper,https://arxiv.org/abs/1707.07012
+Liu 2018,PnasNet,Progressive Neural Architecture Search,paper,http://openaccess.thecvf.com/content_ECCV_2018/papers/Chenxi_Liu_Progressive_Neural_Architecture_ECCV_2018_paper.pdf
+Real 2019,AmoebaNet,Regularized evolution for image classifier architecture search,paper,https://arxiv.org/abs/1802.01548
+Howard 2017,MobileNet,MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications,paper,https://arxiv.org/abs/1704.04861
+Tsang 2018,MobileNet review,Review: MobileNetV1 — Depthwise Separable Convolution (Light Weight Model),medium,https://towardsdatascience.com/review-mobilenetv1-depthwise-separable-convolution-light-weight-model-a382df364b69
+Sandler 2018,MobileNetV2,MobileNetV2: Inverted Residuals and Linear Bottlenecks,paper,10.1109/CVPR.2018.00474
+Hollemans 2018,MobileNetV2 evolutionary review,MobileNet version 2,blog,https://machinethink.net/blog/mobilenet-v2/
+Howard 2019,MobileNetV3,Searching for MobileNetV3,paper,http://openaccess.thecvf.com/content_ICCV_2019/papers/Howard_Searching_for_MobileNetV3_ICCV_2019_paper.pdf
+Tan 2019a,MnasNet,MnasNet: Platform-Aware Neural Architecture Search for Mobile,paper,http://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_MnasNet_Platform-Aware_Neural_Architecture_Search_for_Mobile_CVPR_2019_paper.pdf
+Tan 2019b,EfficientNet,EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,paper,https://arxiv.org/abs/1905.11946
+Kizrak 2020,Review of EfficientNet,Reviewing EfficientNet: Increasing the Accuracy and Robustness of CNNs,medium,https://heartbeat.fritz.ai/reviewing-efficientnet-increasing-the-accuracy-and-robustness-of-cnns-6aaf411fc81d
+Nain 2019,Review of EfficientNet with a scaling perspective,EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,medium,https://medium.com/@nainaakash012/efficientnet-rethinking-model-scaling-for-convolutional-neural-networks-92941c5bfb95
