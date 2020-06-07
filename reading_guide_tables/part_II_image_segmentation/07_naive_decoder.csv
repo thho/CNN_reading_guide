@@ -1,0 +1,14 @@
+Author,Note,Title,Type,Source/DOI
+Hoeser 2020,Section 3.2.1; Overview about naive-decoder models for image segmentation,Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part I: Evolution and Recent Trends ,paper,10.3390/rs12101667
+Tsang 2018,brief overview of DeepLab-V1-V2,Review: DeepLabv1 & DeepLabv2 — Atrous Convolution (Semantic Segmentation),medium,https://towardsdatascience.com/review-deeplabv1-deeplabv2-atrous-convolution-semantic-segmentation-b51c5fbde92d
+stackexchange,A TLDR for atrous aka dilated convolutions,What's the use of dilated convolutions?,discussion,https://stackoverflow.com/questions/41178576/whats-the-use-of-dilated-convolutions/44147945
+stackexchange,good visualizations and brief statements about atrous convolutions,What is the difference between Dilated Convolution and Deconvolution?,discussion,https://datascience.stackexchange.com/questions/22387/what-is-the-difference-between-dilated-convolution-and-deconvolution
+Chen 2014,DeepLab-V1,Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs,paper,https://arxiv.org/abs/1412.7062v1
+Kraehenbuehl 2011,Optional explanations of Conditional Random Field used in DeepLab-V1+2,Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials,paper,https://arxiv.org/abs/1210.5644
+Papandreou 2015,DeepLab-LargeFOV,Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation,paper,https://arxiv.org/abs/1502.02734
+Chen 2016,Deep-Lab-V2 introduction of ASPP,"DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs",paper,10.1109/TPAMI.2017.2699184
+Liu 2015,ParseNet,ParseNet: Looking Wider to See Better,paper,https://arxiv.org/abs/1506.04579
+Zhao 2017,PSPNet,Pyramid Scene Parsing Network,paper,https://arxiv.org/abs/1612.01105
+Chen 2017,Deep-Lab-V3 improved ASPP,Rethinking Atrous Convolution for Semantic Image Segmentation,paper,https://arxiv.org/abs/1706.05587
+Sun 2019a,HRNet-V1,Deep High-Resolution Representation Learning for Human Pose Estimation,paper,https://arxiv.org/abs/1902.09212
+Sun 2019b,HRNet-V2,High-Resolution Representations for Labeling Pixels and Regions,paper,https://arxiv.org/abs/1904.04514

@@ -1,0 +1,13 @@
+Author,Note,Title,Type,Source/DOI
+Hoeser 2020,Section 3.2.2; Overview about encoder-decoder models for image segmentation,Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part I: Evolution and Recent Trends ,paper,10.3390/rs12101667
+Noh 2015,DeconvNet,Learning Deconvolution Network for Semantic Segmentation,paper,https://arxiv.org/abs/1505.04366
+stackexchange,About deconvolutional operations,What are deconvolutional layers?,discussion,https://datascience.stackexchange.com/questions/6107/what-are-deconvolutional-layers
+Dumoulin 2016,Detailed infos and visualizations about convolutional operations,A guide to convolution arithmetic for deep learning,paper,https://arxiv.org/abs/1603.07285v2
+Badrinarayanan 2017,SegNet,Segnet: A deep convolutional encoder-decoder architecture for image segmentation,paper,https://arxiv.org/abs/1511.00561
+Ronneberger 2015,U-Net,U-Net: Convolutional Networks for Biomedical Image Segmentation,paper,https://arxiv.org/abs/1505.04597
+Adaloglou 2020,Different kind of skip connections,Intuitive Explanation of Skip Connections in Deep Learning ,blog,https://theaisummer.com/skip-connections/
+Lamba 2019,Practical examples of image segmentation and Unet explanation with keras,Understanding Semantic Segmentation with UNET,medium,https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
+Jégou 2017,Tiramisu,The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation,paper,https://arxiv.org/abs/1611.09326
+Lin 2017,RefineNet,RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation,paper,https://arxiv.org/abs/1611.06612
+Chen 2018,DeepLabV3+,Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation,paper,https://arxiv.org/abs/1802.02611
+Sahu 2019,recap the DeepLab family evolution,The Evolution of Deeplab for Semantic Segmentation,medium,https://towardsdatascience.com/the-evolution-of-deeplab-for-semantic-segmentation-95082b025571
